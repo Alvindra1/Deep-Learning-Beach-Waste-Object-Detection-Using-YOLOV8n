@@ -55,3 +55,27 @@ The dataset is publicly available at:
 * Real-time object detection using YOLOv8n
 * Web app interface for user-friendly interaction
 * Detection bounding boxes and confidence scores
+
+## How to run
+1. Git clone repository
+```
+git clone https://github.com/Alvindra1/Deep-Learning-Beach-Waste-Object-Detection-Using-YOLOV8n
+cd Deep-Learning-Beach-Waste-Object-Detection-Using-YOLOV8n
+```
+3. Create and activate a virtual environment
+```
+python -m venv venv
+venv\Scripts\activate
+```
+5. Install dependancy
+```
+pip install -r requirements.txt
+```
+6.Run the Streamlit app
+```
+streamlit run app.py
+```
+7. Open web browser and use the link that was given in the terminal by streamlit
+
+
+
