@@ -80,7 +80,7 @@ elif page =="About":
     st.markdown("<br>", unsafe_allow_html=True)
 
     st.markdown("<h2>Github</h2)", unsafe_allow_html=True)
-    st.markdown("Github link: https://github.com/Alvindra1/Beach-waste-object-detection-using-YOLOV8")
+    st.markdown("Github link: https://github.com/Alvindra1/Deep-Learning-Beach-Waste-Object-Detection-Using-YOLOV8n")
     st.markdown("<br>", unsafe_allow_html=True)
 
     # st.markdown("<h2>Project description</h2)", unsafe_allow_html=True)
