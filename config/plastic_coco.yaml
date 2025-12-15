@@ -1,0 +1,6 @@
+train: dataset/images/train
+test: dataset/images/test
+val: dataset/images/val
+
+nc: 1
+names: ["plastic_litter"]
